@@ -1,10 +1,7 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="http://soumyajit.tech/" target="_blank">soumyajit.tech</a>
+  Portfolio Website<br/>
+ 
 </h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
 
 <br/>
 
@@ -18,16 +15,8 @@
 
 </center>
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
+<img width="1038" alt="Screen Shot 2021-02-15 at 8 17 37 PM" src="https://user-images.githubusercontent.com/18099057/108006994-e02c2b00-6fca-11eb-897e-2fea1220395f.png">
 
-## TL;DR
-
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
 
 ## Built With
 
